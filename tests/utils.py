@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import sys
 
-import unittest2 as unittest
+import unittest
 import slumber
 
 

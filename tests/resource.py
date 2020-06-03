@@ -4,7 +4,7 @@ import mock
 import requests
 import slumber
 import slumber.serialize
-import unittest2 as unittest
+import unittest
 
 from slumber import exceptions
 
