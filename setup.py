@@ -3,7 +3,7 @@ import sys
 from setuptools import setup
 
 install_requires = ["requests"]
-tests_require = ["mock", "unittest2"]
+tests_require = ["mock"]
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
